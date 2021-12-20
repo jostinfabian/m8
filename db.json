@@ -1,0 +1,263 @@
+{
+  "equipos": [
+    {
+      "id_equipo": "AC",
+      "nombre": "Athletic Club",
+      "imagen": "imagenes/Escudos_Clubes/Athletic Club.png",
+      "estadio": "San Mamés",
+      "anyo_de_fundacion": 1898,
+      "ubicacion": "Bilbao",
+      "cuerpo_tecnico": {
+        "entrenador": "Gaizka Garitano",
+        "segundo_entrenador": "Patxi Ferreira"
+      },
+      "Web_Oficial": "https://www.athletic-club.eus/"
+    },
+    {
+      "id_equipo": "AM",
+      "nombre": "Atlético de Madrid",
+      "imagen": "imagenes/escudos_clubes/Atletico Madrid.png",
+      "estadio": "Wanda Metropolitano",
+      "anyo_de_fundacion": 1903,
+      "ubicacion": "Madrid",
+      "cuerpo_tecnico": {
+        "entrenador": "Simeone"
+      },
+      "Web_Oficial": "http://www.atleticodemadrid.com/"
+    },
+    {
+      "id_equipo": "OS",
+      "nombre": "CA Osasuna",
+      "imagen": "imagenes/escudos_clubes/CA Osasuna.png",
+      "estadio": "Estadio El Sadar",
+      "anyo_de_fundacion": 1920,
+      "ubicacion": "Pamplona",
+      "cuerpo_tecnico": {
+        "entrenador": "Jagoba Arrasate",
+        "segundo_entrenador": "Alkisa"
+      },
+      "Web_Oficial": "https://www.osasuna.es/"
+    },
+    {
+      "id_equipo": "CAD",
+      "nombre": "Cádiz CF",
+      "imagen": "imagenes/escudos_clubes/Cadiz.png",
+      "estadio": "Ramón de Carranza",
+      "anyo_de_fundacion": 1910,
+      "ubicacion": "Cádiz",
+      "cuerpo_tecnico": {
+        "entrenador": "Alvaro Cervera",
+        "segundo_entrenador": "Roberto Perera"
+      },
+      "Web_Oficial": "https://www.cadizcf.com/"
+    },
+    {
+      "id_equipo": "DA",
+      "nombre": "Deportivo Alavés",
+      "imagen": "imagenes/escudos_clubes/Deportivo Alaves.png",
+      "estadio": "Mendizorroza",
+      "anyo_de_fundacion": 1921,
+      "ubicacion": "Vitoria",
+      "cuerpo_tecnico": {
+        "entrenador": "Pablo Machin",
+        "segundo_entrenador": "Javier Cabello"
+      },
+      "Web_Oficial": "http://www.deportivoalaves.com/"
+    },
+    {
+      "id_equipo": "EL",
+      "nombre": "Elche CF",
+      "imagen": "imagenes/escudos_clubes/Elche CF.png",
+      "estadio": "Estadio Martínez Valero",
+      "anyo_de_fundacion": 1923,
+      "ubicacion": "Elche",
+      "cuerpo_tecnico": {
+        "entrenador": "Jorge Almirón",
+        "segundo_entrenador": "Jesús Muñoz Calonge"
+      },
+      "Web_Oficial": "https://www.elchecf.es/"
+    },
+    {
+      "id_equipo": "FCB",
+      "nombre": "FC Barcelona",
+      "imagen": "imagenes/escudos_clubes/FC Barcelona.png",
+      "estadio": "Camp Nou",
+      "anyo_de_fundacion": 1899,
+      "ubicacion": "Barcelona",
+      "cuerpo_tecnico": {
+        "entrenador": "Koeman",
+        "segundo_entrenador": "Schreuder"
+      },
+      "Web_Oficial": "https://www.fcbarcelona.es/es/"
+    },
+    {
+      "id_equipo": "GE",
+      "nombre": "Getafe CF",
+      "imagen": "imagenes/escudos_clubes/Getafe CF.png",
+      "estadio": "Coliseum Alfonso Pérez",
+      "anyo_de_fundacion": 1983,
+      "ubicacion": "Madrid",
+      "cuerpo_tecnico": {
+        "entrenador": "José Bordalas",
+        "segundo_entrenador": "Patri"
+      },
+      "Web_Oficial": "http://www.getafecf.com/"
+    },
+    {
+      "id_equipo": "GR",
+      "nombre": "Granada CF",
+      "imagen": "imagenes/escudos_clubes/Granada CF.png",
+      "estadio": "Nuevo Los Cármenes",
+      "anyo_de_fundacion": 1931,
+      "ubicacion": "Granada",
+      "cuerpo_tecnico": {
+        "entrenador": "Diego Martínez",
+        "segundo_entrenador": "Raúl Espinola"
+      },
+      "Web_Oficial": "https://www.granadacf.es/"
+    },
+    {
+      "id_equipo": "LEV",
+      "nombre": "Levante UD",
+      "imagen": "imagenes/escudos_clubes/Levante UD.png",
+      "estadio": "Estadio Ciutat de València",
+      "anyo_de_fundacion": 1909,
+      "ubicacion": "Valencia",
+      "cuerpo_tecnico": {
+        "entrenador": "Paco Lopez",
+        "segundo_entrenador": "Antonio Lopez"
+      },
+      "Web_Oficial": " https://www.levanteud.com/es/"
+    },
+    {
+      "id_equipo": "CEL",
+      "nombre": "RC Celta",
+      "imagen": "imagenes/escudos_clubes/RC Celta.png",
+      "estadio": "Estadio Abanca Balaídos",
+      "anyo_de_fundacion": 1923,
+      "ubicacion": "Vigo",
+      "cuerpo_tecnico": {
+        "entrenador": "Óscar García",
+        "segundo_entrenador": "Roger García"
+      },
+      "Web_Oficial": "https://rccelta.es/"
+    },
+    {
+      "id_equipo": "RB",
+      "nombre": "Real Betis",
+      "imagen": "imagenes/escudos_clubes/Real Betis.png",
+      "estadio": "Estadio Benito Villamarín",
+      "anyo_de_fundacion": 1907,
+      "ubicacion": "Sevilla",
+      "cuerpo_tecnico": {
+        "entrenador": "Manuel Pellegrini",
+        "segundo_entrenador": "Ruben Cousillas"
+      },
+      "Web_Oficial": "https://www.realbetisbalompie.es/"
+    },
+    {
+      "id_equipo": "RM",
+      "nombre": "Real Madrid",
+      "imagen": "imagenes/escudos_clubes/Real Madrid.png",
+      "estadio": "Estadio Santiago Bernabéu",
+      "anyo_de_fundacion": 1902,
+      "ubicacion": "Madrid",
+      "cuerpo_tecnico": {
+        "entrenador": "Zinedine Zidane",
+        "segundo_entrenador": "David Bettoni"
+      },
+      "Web_Oficial": "https://www.realmadrid.com/"
+    },
+    {
+      "id_equipo": "RS",
+      "nombre": "Real Sociedad",
+      "imagen": "imagenes/escudos_clubes/Real Sociedad.png",
+      "estadio": "Reale Arena",
+      "anyo_de_fundacion": 1909,
+      "ubicacion": "San Sebastián",
+      "cuerpo_tecnico": {
+        "entrenador": "Imanol Alguacil",
+        "segundo_entrenador": "Mikel Labaka"
+      },
+      "Web_Oficial": "https://www.realsociedad.eus/"
+    },
+    {
+      "id_equipo": "RV",
+      "nombre": "Real Valladolid CF",
+      "imagen": "imagenes/escudos_clubes/Real Valladolid  CF.png",
+      "estadio": "Estadio Municipal José Zorilla",
+      "anyo_de_fundacion": 1928,
+      "ubicacion": "Valladolid",
+      "cuerpo_tecnico": {
+        "entrenador": "Sergio González Soriano",
+        "segundo_entrenador": "Diego Ribera Ramirez"
+      },
+      "Web_Oficial": "https://www.realvalladolid.es/"
+    },
+    {
+      "id_equipo": "EI",
+      "nombre": "SD Eibar",
+      "imagen": "imagenes/escudos_clubes/SD Eibar.png",
+      "estadio": "Municipal de Ipurua",
+      "anyo_de_fundacion": 1940,
+      "ubicacion": "Éibar",
+      "cuerpo_tecnico": {
+        "entrenador": "José Luis Mendilibar",
+        "segundo_entrenador": "Andoni Azkaraorta"
+      },
+      "Web_Oficial": "https://www.sdeibar.com/"
+    },
+    {
+      "id_equipo": "HU",
+      "nombre": "SD Huesca",
+      "imagen": "imagenes/escudos_clubes/SD Huesca.png",
+      "estadio": "El Alcoraz",
+      "anyo_de_fundacion": 1960,
+      "ubicacion": "Huesca",
+      "cuerpo_tecnico": {
+        "entrenador": "Miguel Ángel Sánchez",
+        "segundo_entrenador": "Salvador Funez"
+      },
+      "Web_Oficial": "https://www.sdhuesca.es/"
+    },
+    {
+      "id_equipo": "SEV",
+      "nombre": "Sevilla FC",
+      "imagen": "imagenes/escudos_clubes/Sevilla FC.png",
+      "estadio": "Ramon Sánchez-Pizjuán",
+      "anyo_de_fundacion": 1905,
+      "ubicacion": "Sevilla",
+      "cuerpo_tecnico": {
+        "entrenador": "Julen Lopetegui",
+        "segundo_entrenador": "Pablo Sanz"
+      },
+      "Web_Oficial": "https://www.sevillafc.es/"
+    },
+    {
+      "id_equipo": "VAL",
+      "nombre": "Valencia CF",
+      "imagen": "imagenes/escudos_clubes/Valencia CF.png",
+      "estadio": "Camp de Mestella",
+      "anyo_de_fundacion": 1919,
+      "ubicacion": "Valencia",
+      "cuerpo_tecnico": {
+        "entrenador": "Javier Gracia",
+        "segundo_entrenador": "Zigor Aranalde"
+      },
+      "Web_Oficial": "https://www.valenciacf.com/es"
+    },
+    {
+      "id_equipo": "VIL",
+      "nombre": "Villareal CF",
+      "imagen": "imagenes/escudos_clubes/Villarreal CF.png",
+      "estadio": "Estadio de la Cerámica",
+      "anyo_de_fundacion": 1923,
+      "ubicacion": "Villareal",
+      "cuerpo_tecnico": {
+        "entrenador": "Unai Emery",
+        "segundo_entrenador": "Imanol Idiakez"
+      },
+      "Web_Oficial": "http://www.villarrealcf.es/"
+    }
+  ]
+}
