@@ -9,8 +9,7 @@
       "ubicacion": "Bilbao",
       "cuerpo_tecnico": {
         "entrenador": "Gaizka Garitano"
-      },
-      "Web_Oficial": "https://www.athletic-club.eus/"
+      }
     },
     {
       "id_equipo": "AM",
@@ -21,8 +20,7 @@
       "ubicacion": "Madrid",
       "cuerpo_tecnico": {
         "entrenador": "Simeone"
-      },
-      "Web_Oficial": "http://www.atleticodemadrid.com/"
+      }
     },
     {
       "id_equipo": "OS",
@@ -33,8 +31,7 @@
       "ubicacion": "Pamplona",
       "cuerpo_tecnico": {
         "entrenador": "Jagoba Arrasate"
-      },
-      "Web_Oficial": "https://www.osasuna.es/"
+      }
     },
     {
       "id_equipo": "CAD",
@@ -45,8 +42,7 @@
       "ubicacion": "Cádiz",
       "cuerpo_tecnico": {
         "entrenador": "Alvaro Cervera"
-      },
-      "Web_Oficial": "https://www.cadizcf.com/"
+      }
     },
     {
       "id_equipo": "DA",
@@ -57,8 +53,7 @@
       "ubicacion": "Vitoria",
       "cuerpo_tecnico": {
         "entrenador": "Pablo Machin"
-      },
-      "Web_Oficial": "http://www.deportivoalaves.com/"
+      }
     },
     {
       "id_equipo": "EL",
@@ -69,8 +64,7 @@
       "ubicacion": "Elche",
       "cuerpo_tecnico": {
         "entrenador": "Jorge Almirón"
-      },
-      "Web_Oficial": "https://www.elchecf.es/"
+      }
     },
     {
       "id_equipo": "FCB",
@@ -81,8 +75,7 @@
       "ubicacion": "Barcelona",
       "cuerpo_tecnico": {
         "entrenador": "Koeman"
-      },
-      "Web_Oficial": "https://www.fcbarcelona.es/es/"
+      }
     },
     {
       "id_equipo": "GE",
@@ -93,8 +86,7 @@
       "ubicacion": "Madrid",
       "cuerpo_tecnico": {
         "entrenador": "José Bordalas"
-      },
-      "Web_Oficial": "http://www.getafecf.com/"
+      }
     },
     {
       "id_equipo": "GR",
@@ -105,8 +97,7 @@
       "ubicacion": "Granada",
       "cuerpo_tecnico": {
         "entrenador": "Diego Martínez"
-      },
-      "Web_Oficial": "https://www.granadacf.es/"
+      }
     },
     {
       "id_equipo": "LEV",
@@ -117,8 +108,7 @@
       "ubicacion": "Valencia",
       "cuerpo_tecnico": {
         "entrenador": "Paco Lopez"
-      },
-      "Web_Oficial": " https://www.levanteud.com/es/"
+      }
     },
     {
       "id_equipo": "CEL",
@@ -129,8 +119,7 @@
       "ubicacion": "Vigo",
       "cuerpo_tecnico": {
         "entrenador": "Óscar García"
-      },
-      "Web_Oficial": "https://rccelta.es/"
+      }
     },
     {
       "id_equipo": "RB",
@@ -141,8 +130,7 @@
       "ubicacion": "Sevilla",
       "cuerpo_tecnico": {
         "entrenador": "Manuel Pellegrini"
-      },
-      "Web_Oficial": "https://www.realbetisbalompie.es/"
+      }
     },
     {
       "id_equipo": "RM",
@@ -153,8 +141,7 @@
       "ubicacion": "Madrid",
       "cuerpo_tecnico": {
         "entrenador": "Zinedine Zidane"
-      },
-      "Web_Oficial": "https://www.realmadrid.com/"
+      }
     },
     {
       "id_equipo": "RS",
@@ -165,8 +152,7 @@
       "ubicacion": "San Sebastián",
       "cuerpo_tecnico": {
         "entrenador": "Imanol Alguacil"
-      },
-      "Web_Oficial": "https://www.realsociedad.eus/"
+      }
     },
     {
       "id_equipo": "RV",
@@ -177,8 +163,7 @@
       "ubicacion": "Valladolid",
       "cuerpo_tecnico": {
         "entrenador": "Sergio González Soriano"
-      },
-      "Web_Oficial": "https://www.realvalladolid.es/"
+      }
     },
     {
       "id_equipo": "EI",
@@ -189,8 +174,7 @@
       "ubicacion": "Éibar",
       "cuerpo_tecnico": {
         "entrenador": "José Luis Mendilibar"
-      },
-      "Web_Oficial": "https://www.sdeibar.com/"
+      }
     },
     {
       "id_equipo": "HU",
@@ -201,8 +185,7 @@
       "ubicacion": "Huesca",
       "cuerpo_tecnico": {
         "entrenador": "Miguel Ángel Sánchez"
-      },
-      "Web_Oficial": "https://www.sdhuesca.es/"
+      }
     },
     {
       "id_equipo": "SEV",
@@ -213,8 +196,7 @@
       "ubicacion": "Sevilla",
       "cuerpo_tecnico": {
         "entrenador": "Julen Lopetegui"
-      },
-      "Web_Oficial": "https://www.sevillafc.es/"
+      }
     },
     {
       "id_equipo": "VAL",
@@ -225,8 +207,7 @@
       "ubicacion": "Valencia",
       "cuerpo_tecnico": {
         "entrenador": "Javier Gracia"
-      },
-      "Web_Oficial": "https://www.valenciacf.com/es"
+      }
     },
     {
       "id_equipo": "VIL",
@@ -237,8 +218,7 @@
       "ubicacion": "Villareal",
       "cuerpo_tecnico": {
         "entrenador": "Unai Emery"
-      },
-      "Web_Oficial": "http://www.villarrealcf.es/"
+      }
     }
   ]
 }
